@@ -1,57 +1,61 @@
-Her sunucunun kuralları ve cezaları farklı olabilir ama en ideal ve ortalama liste şudur.
+# 🛡️ Discord Topluluk Yönetimi ve Moderasyon Rehberi
 
-KURAL / CEZA SÜRESİ / 
-Üyenin üyeye küfür etmesi / Yazılı uyarı
-Tekrarı / 30 Dakika Timeout
-Üyenin yetkiliye küfür etmesi / 15 Dakika Timeout
-Tekrarı 1 Saat Timeout
-Kişisel Bilgi paylaşımı / Kalıcı Ban
-Ailevi // Milli // Dini değerlere Küfür / 1 Gün Timeout
-Aşağılama // Kışkırtma Söylemleri / 12 Saat Timeout
-Irkçılık // Nefret Söylemleri / 12 Saat Timeout
-Sürekli Kaos çıkartmak // Olay Çıkartmak // Troll yapmak / 1 Saat Timeout
-Sunucu İçinde İzinsiz Reklam yapmak / 1 Gün Timeout
-// Dm'den Hiçbir şeye karışmıyoruz sunucu ile Dm Aynı şey değil //
-Cinsel // Şiddet // Rahatsız edici // Yasa Dışı içerikler / 2 Gün Timeout 
-// Profil Fotoğrafı Durumu İsmi VS. Karışmıyoruz oralar bizi alakalar etmez kişinin yaptıkları davranışlar bizi alaka eder //
-Ses Kanallarında Bağırmak / 1 Saat Timeout
-Ses Kanallarında rahatsız edici şeyler konuşmak / 12 Saat Timeout
-Spam / 30 Dakika Timeout // 10 Mesajı geçerse 1 Saat Timeout
-Flood Ve Aşırı emojiler / 1 Saat Timeout
-Gereksiz Büyük harfler ile konuşmak Ve gereksiz şekilde kalın yazı fontları kullanarak chati kirletmek / 12 Saat Timeout
-Yetkililere Saygısızlık // 1 Gün Timeout
--------------------------------------------
-Yetkililer için ayrı alan açılmasının sebebi;
---
-Yetkililer Sunucular için önemli kişilerdir. Sunucuların çoğunda yetkililer hobi olarak yapıyor bu işi ve eğer bir üye yetkiliye saygısızlık yapar ise yada kurallara uymaz ise diğer üyeler sunucunun disiplinsiz olduğunu Düşünürler.
-Ve kurallar anlamsızlaşır üyeler güvende hissedemezler çünkü yetkililere saygısızlık olan ortamda işler hiç düzende gitmiyor demektir
+Bu rehber, bir Discord sunucusunun sürdürülebilir, adil ve disiplinli bir şekilde yönetilmesi için gereken temel kuralları ve moderasyon mantığını içerir.
 
-CEZA ARTTIRIMLAR
+## 📋 İdeal Ceza ve Kural Listesi
 
-15 Dakika - 30 Dakika - 1 Saat - 12 Saat - 1 Gün - Geçici Ban - Kalıcı Ban
-30 Dakika - 1 Saat - 12 Saat - 1 Gün - Geçici Ban - Kalıcı Ban
-1 Saat - 12 Saat - 1 Gün - Geçici Ban - Kalıcı Ban
-12 Saat - 1 Gün - Geçici Ban - Kalıcı Ban
-1 Gün - Geçici Ban - Kalıcı Ban
-2 Gün - 5 Gün - 1 Hafta - Kalıcı ban
---
-GRİ ALANLAR
-Kişisel Profiller;
-Açıklama
-Durum
-İsim
-Profil fotoğrafı
-Girdiği sunucular çıktığı sunucular
-Girdiği gruplar çıktığı gruplar
-Arkadaşları
-Panosu
-Oynadığı oyunlar
---
-DM ( Direkt Mesaj )
-DM'ye karışamayız çünkü orası özel bir konuşmadır
-2 Kişi özel bir şekilde konuşur sunucu hakkında konuşsalar dahi karışmamıza hakkımız yoktur
-Peki taciz olursa?
-Taciz olması kafa karıştırıcı yer evet kötü birşey ama Özel mesajta taciz yaptığı için sunucu içi birşey yapamayıız ama taciz edilen kişiye yardım edebiliriz.
-Eğer taciz eden kişi sunucudaki 5 kişi ve fazlasını taciz ediyorsa 1 Gün Timeout yapabilirsiniz.
-Sunuculara göre değişir sunucunuzun kurallarında Direkt Mesaj için ayrı bir kategori varsa ona göre bir İşlem uygulayabilirsiniz.
---
+Aşağıdaki tablo, topluluk huzurunu bozmaya yönelik davranışlar için önerilen standart yaptırımları içerir.
+
+| KURAL | İLK CEZA | TEKRAR DURUMU |
+| :--- | :--- | :--- |
+| **Üyenin üyeye küfür etmesi** | Yazılı Uyarı | 30 Dakika Timeout |
+| **Üyenin yetkiliye küfür etmesi** | 15 Dakika Timeout | 1 Saat Timeout |
+| **Kişisel Bilgi Paylaşımı (Dox)** | 🚫 Kalıcı Ban | - |
+| **Ailevi / Milli / Dini Değerlere Küfür** | 1 Gün Timeout | Artırımlı Ceza |
+| **Aşağılama / Kışkırtma Söylemleri** | 12 Saat Timeout | 1 Gün Timeout |
+| **Irkçılık / Nefret Söylemleri** | 12 Saat Timeout | 1 Gün Timeout |
+| **Kaos Çıkarmak / Troll Yapmak** | 1 Saat Timeout | 12 Saat Timeout |
+| **Sunucu İçinde İzinsiz Reklam** | 1 Gün Timeout | Geçici Ban |
+| **Cinsel / Şiddet / Yasa Dışı İçerik** | 2 Gün Timeout | 5 Gün / Kalıcı Ban |
+| **Ses Kanalında Bağırmak / Rahatsızlık** | 1 Saat Timeout | 12 Saat Timeout |
+| **Spam (10+ Mesaj)** | 30 Dakika Timeout | 1 Saat Timeout |
+| **Flood ve Aşırı Emoji Kullanımı** | 1 Saat Timeout | 12 Saat Timeout |
+| **Gereksiz Büyük Harf / Chat Kirletme** | 12 Saat Timeout | 1 Gün Timeout |
+| **Yetkililere Saygısızlık** | 1 Gün Timeout | Geçici Ban |
+
+---
+
+## ⚖️ Ceza Arttırım Sistemi
+
+İhlallerin devam etmesi durumunda cezalar şu merdiven sistemine göre ağırlaştırılmalıdır:
+* **Kısa Süreli:** 15 Dakika ➔ 30 Dakika ➔ 1 Saat
+* **Orta Süreli:** 12 Saat ➔ 1 Gün ➔ 2 Gün
+* **Uzun Süreli:** 5 Gün ➔ 1 Hafta ➔ Geçici Ban ➔ **Kalıcı Ban**
+
+---
+
+## 🔍 Gri Alanlar ve Müdahale Sınırları
+
+Moderasyon ekibinin tarafsızlığını korumak adına belirlenen sınırlar şunlardır:
+
+### 👤 Kişisel Profiller
+Aşağıdaki alanlar üyenin kişisel alanıdır ve **davranışlara odaklanma** prensibi gereği müdahale edilmez:
+* İsim, Durum (Status) ve Açıklama.
+* Profil fotoğrafı ve Panosu.
+* Oynadığı oyunlar, girdiği sunucular ve arkadaş listesi.
+
+### 📩 DM (Direkt Mesaj) Politikası
+* DM alanı özel bir konuşmadır; sunucu hakkında konuşulsa dahi yönetim müdahale hakkına sahip değildir.
+* **Taciz Durumu:** Eğer bir üye sunucudaki **5 veya daha fazla kişiyi** DM yoluyla taciz ediyorsa, topluluk güvenliği adına 1 Gün Timeout uygulanabilir.
+
+---
+
+## 🛡️ Yetkili Disiplini ve Önemi
+
+Sunucularda yetkililer genellikle bu işi hobi olarak yürütürler. Yetkililere ayrı bir alan açılmasının ve korunmalarının temel nedenleri şunlardır:
+1.  **Disiplin:** Bir üye yetkiliye saygısızlık yaptığında karşılıksız kalırsa, sunucunun disiplinsiz olduğu algısı oluşur ve kurallar anlamını yitirir.
+2.  **Güvenlik:** Yetkililere saygısızlığın normalleştiği bir ortamda düzen sağlanamaz ve üyeler kendilerini güvende hissedemez.
+3.  **Süreklilik:** Yetkilinin emeğine saygı duyulması, sunucunun sağlıklı büyümesini sağlar.
+
+---
+*Bu rehber topluluk yönetiminde standart bir adalet sistemi kurmak amacıyla hazırlanmıştır.*
