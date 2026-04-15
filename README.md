@@ -24,7 +24,7 @@ Yetkililere neden saygı duyulması gerektiğini ve bu disiplinin sunucu huzuru 
 
 ## 📂 Dosya Yapısı
 - [**Cezalar ve Kurallar**](./cezalar-ve-kurallar.md): İdeal ceza süreleri ve artırım merdiveni.
-- [**Moderatör El Kitabı**](./moderatör-el-kitabi.md): Bir yetkilinin olay anında nasıl davranması gerektiği.
+- [**Moderatör El Kitabı**](./moderator-el-kitabi.md): Bir yetkilinin olay anında nasıl davranması gerektiği.
 
 ---
 
